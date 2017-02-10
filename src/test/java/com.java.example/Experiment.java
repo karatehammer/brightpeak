@@ -8,10 +8,9 @@ public class Experiment {
 
     @Test
     public void testing123() {
-        System.out.println("HelloWorld");
-
+        System.setProperty("webdriver.gecko.driver","C:\\Users\\Nick\\IdeaProjects\\java_example\\driver\\geckodriver.exe");
         WebDriver firefox = new FirefoxDriver();
 
-        firefox.get("www.brightpeak");
+        firefox.get("https://www.brightpeakfinancial.com/");
     }
 }
