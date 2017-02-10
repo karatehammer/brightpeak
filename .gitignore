@@ -43,3 +43,6 @@ Thumbs.db
 .idea/*
 build/tmp/
 /.idea/workspace.xml
+/.gradle/
+/build
+driver/
