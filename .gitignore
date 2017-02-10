@@ -40,5 +40,6 @@ Thumbs.db
 ###############
 .idea*
 /.idea
-.idea/
-.idea/workspace.xml
+.idea/*
+build/tmp/
+/.idea/workspace.xml

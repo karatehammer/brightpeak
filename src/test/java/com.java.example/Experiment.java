@@ -5,7 +5,7 @@ import org.junit.Test;
 public class Experiment {
 
     @Test
-    public void testThisShit() {
-        System.out.println("What's up player");
+    public void testing123() {
+        System.out.println("HelloWorld");
     }
 
