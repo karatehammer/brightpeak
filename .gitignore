@@ -3,7 +3,6 @@
 *.com
 *.class
 *.dll
-*.exe
 *.o
 *.so
 
@@ -45,4 +44,3 @@ build/tmp/
 /.idea/workspace.xml
 /.gradle/
 /build
-driver/
